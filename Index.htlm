@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sonrisas Mágicas Dental Kids & Smile</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#FFF8FB;color:#555}
+header{background:linear-gradient(135deg,#FFD6E8,#D8F7F7);padding:60px 20px;text-align:center}
+h1{color:#E85C9A;font-size:40px;margin:0}
+h2{color:#59C9CC}
+section{padding:30px;max-width:900px;margin:auto}
+.card{background:white;border-radius:18px;padding:18px;margin:15px 0;border:2px solid #B9F0F0}
+footer{background:#E85C9A;color:white;text-align:center;padding:20px}
+</style>
+</head>
+<body>
+<header>
+<h1>Sonrisas Mágicas</h1>
+<h2>Dental Kids & Smile</h2>
+<p>"Generamos confianza en ti y creamos sonrisas mágicas."</p>
+</header>
+
+<section>
+<h2>Objetivo</h2>
+<p>Brindar servicios odontológicos especializados en odontología estética y pediátrica con atención integral, segura y personalizada.</p>
+
+<div class="card"><b>Odontología Estética</b><br>Diseño de sonrisa, blanqueamiento y restauraciones.</div>
+<div class="card"><b>Odontopediatría</b><br>Valoración, limpieza, flúor y sellantes.</div>
+<div class="card"><b>Valoración Integral</b><br>Plan de tratamiento personalizado.</div>
+<div class="card"><b>Higiene y Prevención</b><br>Limpiezas y educación en salud oral.</div>
+</section>
+
+<footer>Sonrisas Mágicas Dental Kids & Smile</footer>
+</body>
+</html>
